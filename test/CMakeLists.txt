@@ -1,0 +1,2 @@
+add_executable(teaser_cpp_ply teaser_cpp_ply.cc)
+target_link_libraries(teaser_cpp_ply teaser)
